@@ -1,10 +1,11 @@
 # Homefood
+Note: This code runs the Homefood MVP (expect for the chat-community feature), and supports chef and customer profiles.
 
 To run Homefood (compatible with Python 3.x), please follow these steps in sequential order:
 
 (1) Run admin.py to start the server and load default chef, customer and order databases. Please wait till all databases are loaded and connections are established
 
-(2) On a separate terminal, login or sign up as a chef (by running chef.py) or customer (by running customer.py) (or both from two different terminals)
+(2) On a separate terminal, login or sign up as a chef (by running chef.py), customer (by running customer.py), or both from two different terminals.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
