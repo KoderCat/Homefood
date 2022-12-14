@@ -1,5 +1,5 @@
 # Homefood
-Note: This code runs the Homefood MVP (expect for the chat-community feature), and supports chef and customer profiles.
+**Note**: This code runs the Homefood MVP (expect for the chat-community feature), and supports chef and customer profiles.
 
 To run Homefood (compatible with Python 3.x), please follow these steps in sequential order:
 
